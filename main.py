@@ -2,7 +2,6 @@
 # Importando Funções
 from functions import *
 
-
 # Programa Principal
 num = iniciar()
 cartelas = criar_cartela(num)
