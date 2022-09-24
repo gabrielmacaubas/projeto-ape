@@ -5,3 +5,4 @@
  Bingo Feito em Python no terminal usando as bibliotecas "random" e "time" para geração aleatória de números e efeitos visuais respectivamente.
 
 ![Screenshot](screenshot.png)
+
